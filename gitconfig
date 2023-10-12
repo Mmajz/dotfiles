@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = Mounzer Majzoub Majzoub.m@proton.me
+	email = Majzoub.m@proton.me
+	name = Mounzer Majzoub
